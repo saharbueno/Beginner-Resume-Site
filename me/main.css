@@ -1,0 +1,99 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #463C3C; 
+    border-style: dashed;
+    border-color: #E17F93;
+    background-color: #FFE8F2;
+    border-width: 5px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+
+}
+p {
+    font-family: Georgia, serif;
+    font-size: 1em;
+    color: black;
+    line-height: 1.2em;
+}
+body {
+    background-color: rgb(232, 199, 200); 
+}
+hr {
+    border: 1px solid #463C3C;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #463C3C;
+    border-style: dashed;
+    border-color: #E17F93;
+    border-width: 5px;
+    background-color: antiquewhite;
+    height: 40px;
+    width: 350px;
+    text-align: center;
+}
+#name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #463C3C;
+    border-style: none;
+    background-color: rgb(232, 199, 200); 
+}
+figcaption {
+    font-family: Georgia, serif;
+    color: #463C3C;
+}
+a:active, a:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    color: hotpink;
+    text-decoration: underline;
+    background-color: antiquewhite;
+}
+a:link, a:visited {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    color: hotpink;
+    text-decoration: underline; 
+}
+#hobbies-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #463C3C; 
+    border-style: dashed;
+    border-color: #22474A;
+    background-color: azure;
+    border-width: 5px;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+
+}
+#fun-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #463C3C; 
+    border-style: dashed;
+    border-color: #E17F93;
+    background-color: #FFE8F2;
+    border-width: 5px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+}
+body.hobbies-and-interests-page {
+    background-color: #BEE0ED;
+}
+h2.hobbies-and-interests-page {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #463C3C;
+    border-style: dashed;
+    border-color: #22474A;
+    border-width: 5px;
+    background-color: #F1E7FF;
+    height: 40px;
+    width: 350px;
+    text-align: center;
+}
+
