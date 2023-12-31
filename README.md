@@ -8,6 +8,10 @@
 # Description
 This website is my first attempt at crafting a personal space that reflects my academic journey and individual pursuits -- a visual resume. Using HTML, CSS, and Javascript, I made my website responsive and available in dark and light mode on any user's browser. In addition, I embeded examples of my work such as my personal art projects, comics I created for my highschool's newspaper, Achona Online, and the website of the club I am in, Women in Computing. 
 
+<p align="center">
+  <i>Visit Winc's page <a href="https://nyuwinc.org/">HERE</a></i>
+</p>
+
 # Dark Mode
 ![Imgur](https://i.imgur.com/3yLZNM6.png)
 
