@@ -16,6 +16,7 @@ This website is my first attempt at crafting a personal space that reflects my a
 ![Imgur](https://i.imgur.com/3yLZNM6.png)
 
 # Light Mode
+![Imgur](https://i.imgur.com/OHH4vpI.png)
 
 # Takeaways
 
